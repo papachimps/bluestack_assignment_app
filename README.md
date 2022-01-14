@@ -38,10 +38,7 @@ This is the first screen.
 
 **Created design**
 
-  <video width="360" height="640" controls>
-  <source src="created_app.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/papachimps/bluestack_assignment_app/blob/master/created_app.mp4
 
 ✓ a. API:
 
