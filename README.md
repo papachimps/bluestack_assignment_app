@@ -34,12 +34,12 @@ This is the first screen.
 
 **Shared design**
 
-  <img src="./app-dev-assignment.png" height=417 width=237/>
+  <img src="https://github.com/bluestacks/app-developer-assignment/blob/master/app-dev-assignment.png" height=417 width=237/>
 
 **Created design**
 
   <video width="360" height="640" controls>
-  <source src="./created_app.mp4" type="video/mp4">
+  <source src="created_app.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
